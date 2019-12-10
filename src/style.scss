@@ -1,0 +1,23 @@
+html,body{
+    font-family: 'Roboto'  !important;
+    font-size: 1em;
+}
+
+.navbar{
+    background-color: #f1f1f1
+}
+
+
+input, button, select, optgroup, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+textarea {
+    overflow: auto;
+    resize: vertical;
+}
+
+
